@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/buildbot/slave-local/ramips_rt3883/build/staging_dir/host/bin/bison' -y "$@"

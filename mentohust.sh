@@ -1,0 +1,1 @@
+/etc/mentohust -u18649792477 -p290011 -neth0.2 -a1 -d2 -b1
